@@ -1,0 +1,19 @@
+{
+  "name": "glad-response-time",
+  "version": "0.1.0",
+  "description": "A Simple Response Time Implementation for the Glad JS Framework.",
+  "author": "Charlie Mitchell <charliesemailis@gmail.com>",
+  "license": "MIT",
+  "keywords" : ["glad", "glad js", "response time", "server metrics", "glad response time"],
+  "bugs": {
+    "url": "http://github.com/charliemitchell/glad-response-time",
+    "email": "charliesemailis@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/charliemitchell/glad-response-time.git"
+  },
+  "peerDependencies" : {
+    "glad" : ">= 0.6.0"
+  }
+}
