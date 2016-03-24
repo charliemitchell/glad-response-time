@@ -1,6 +1,6 @@
 {
   "name": "glad-response-time",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Simple Response Time Implementation for the Glad JS Framework.",
   "author": "Charlie Mitchell <charliesemailis@gmail.com>",
   "license": "MIT",
