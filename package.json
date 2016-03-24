@@ -4,7 +4,7 @@
   "description": "A Simple Response Time Implementation for the Glad JS Framework.",
   "author": "Charlie Mitchell <charliesemailis@gmail.com>",
   "license": "MIT",
-  "keywords" : ["glad", "glad js", "response time", "server metrics", "glad response time"],
+  "keywords" : ["glad", "glad js", "glad plugins", "response time", "server metrics", "glad response time"],
   "bugs": {
     "url": "http://github.com/charliemitchell/glad-response-time",
     "email": "charliesemailis@gmail.com"
