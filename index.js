@@ -36,7 +36,6 @@ module.exports = {
 
         app.use(function (req, res, callback) {
 
-
             var skip = 5;
 
             if (config.gladResponseTimes && config.gladResponseTimes.all) {
@@ -52,7 +51,7 @@ module.exports = {
                     count = 0;
                     var now = new Date().getTime();
                     var start = tokenizer.timeDecoded(req.id);
-
+                    console.log(("Timings   " + req.id + '  ' +  (now - start) + 'ms').magenta);
                     new model({
                         url : req.url,
                         method: req.method,
